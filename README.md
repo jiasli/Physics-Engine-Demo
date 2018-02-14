@@ -1,9 +1,10 @@
 # Tower Destruction
 
-University of Southern California
-CSCI 520, Course Project - Physics Engine Demonstration
-Jiashuo Li
+Author: Jiashuo Li
 
+University of Southern California CSCI 520, Course Project - Physics Engine Demonstration
+
+## Description
 User can fire cannon balls to destruct the tower and pyramid. The physics engine is PhysX. 
 
 ## Build Instructions
