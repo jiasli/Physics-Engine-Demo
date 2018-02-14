@@ -19,3 +19,7 @@ w,s,a,d			Move around
 left mouse		Rotate the camera
 arrow keys		Rotate the camera
 SPACE			Fire cannon balls
+
+## Screenshots
+![alt text](/screenshots/screenshot1.png)
+![alt text](/screenshots/screenshot2.jpg)
